@@ -1,0 +1,13 @@
+# Compiled files
+*.exe
+*.out
+*.o
+
+# Output folder
+output/
+
+# Binary data files (runtime generated)
+*.dat
+
+# VS Code local settings (optional)
+.vscode/
